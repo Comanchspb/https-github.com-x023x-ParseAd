@@ -1,0 +1,12 @@
+.b-catalog-table .c-b-3 .fader:after, .b-catalog-table .c-b-odd .fader:after {
+    background: linear-gradient(to right, rgba(247, 247, 250, 0) 0%, #F7F7FA 100%) repeat scroll 0 0 transparent;
+}
+.c-b-3, .c-b-odd {
+    background: none repeat scroll 0 0 #F7F7FA;
+}
+.c-b-3 .fader:after {
+    background: linear-gradient(to right, rgba(247, 247, 250, 0) 0%, #F7F7FA 100%) repeat scroll 0 0 transparent;
+}
+.c-b-3 {
+	display:block;
+}
