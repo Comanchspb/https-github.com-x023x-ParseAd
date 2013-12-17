@@ -2,11 +2,14 @@
     background: linear-gradient(to right, rgba(247, 247, 250, 0) 0%, #F7F7FA 100%) repeat scroll 0 0 transparent;
 }
 .c-b-3, .c-b-odd {
-    background: none repeat scroll 0 0 #F7F7FA;
+    background: none repeat scroll 0 0 #FFCC99;
 }
-.c-b-3 .fader:after {
-    background: linear-gradient(to right, rgba(247, 247, 250, 0) 0%, #F7F7FA 100%) repeat scroll 0 0 transparent;
-}
+
 .c-b-3 {
 	display:block;
+	width: auto;
+}
+.date {
+	font-size: 25px;
+	font-weight: bold;
 }
